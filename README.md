@@ -6,6 +6,6 @@ Analyzing individual player data from the 2016/2017 NHL regular season.
  - Country representation. 
  - Who the highest earning players in the NHL are.
  - Which positions tend to command the highest salary.
- - The effects of age on offensive performance 
- - Who the most 'unlucky' players in the NHL are
+ - The effects of age on offensive performance.
+ - Who the most 'unlucky' players in the NHL are.
  - Over/under performing players in terms of on-ice efficiency and value for money.
