@@ -13,7 +13,9 @@ Analyzing individual player data from the 2016/2017 NHL regular season.
  
  ### Code and Resources used
  **Python Version**: 3.7.1
- **Packages**: Pandas, Numpy, Matplotlib, Seaborn
+
+**Packages**: Pandas, Numpy, Matplotlib, Seaborn
+ 
  **Original Dataset**: https://www.kaggle.com/camnugent/predict-nhl-player-salaries
  
  
